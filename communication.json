@@ -1,1 +1,11 @@
-{"dev":{"domain":"https://demopayapi.shiryu.cc/partnerapi/"},"prod":{"domain":"https://demopayapi.shiryu.cc/partnerapi/"}}
+{
+  "dev": {
+    "domain": "https://demopayapi.shiryu.cc/partnerapi/"
+  },
+  "prod": {
+    "domain": "https://demopayapi.shiryu.cc/partnerapi/"
+  },
+  "demo": {
+    "domain": "https://demopayapi.shiryu.cc/partnerapi/"
+  }
+}
