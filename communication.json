@@ -2,7 +2,7 @@
   "dev": {
     "domain": "https://demopayapi.shiryu.cc/partnerapi/"
   },
-  "prod": {
+  "pro": {
     "domain": "https://demopayapi.shiryu.cc/partnerapi/"
   },
   "demo": {
